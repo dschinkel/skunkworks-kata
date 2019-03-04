@@ -1,0 +1,4 @@
+#Mon Mar 04 15:45:08 CST 2019
+base.0=/Users/david/Code/katas/skunkworks-kata/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
