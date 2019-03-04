@@ -1,4 +1,4 @@
-package com.example.skunkworkskata
+package com.example.skunkworkskata.unit
 
 import org.junit.Test
 
